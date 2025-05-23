@@ -1,4 +1,4 @@
-# Quadratic-Equation
+# Quadratic-Roots
 
 This Python program calculates the two roots of a quadratic equation using the quadratic formula.
 
